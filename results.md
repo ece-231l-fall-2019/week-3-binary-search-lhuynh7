@@ -11,7 +11,6 @@ When creating this code I ran into many issues on how I would be able to get the
 |Linear (pointers)   |15.1374s     |    
 |Binary              |0.000949238s |
 |Binary (pointers)   |0.000856337s |
-------------------------------------
 
 
 # With Optimizations
@@ -22,7 +21,6 @@ When creating this code I ran into many issues on how I would be able to get the
 |Linear (pointers)   |13.6677s     |
 |Binary              |0.000960344s |
 |Binary (pointers)   |0.000964609s |
-------------------------------------
 
 
 ### SUMMARY
