@@ -4,7 +4,7 @@ When creating this code I ran into many issues on how I would be able to get the
 
 ## Results of the code
 
-#Without Optimizations                   #With Optimizations
+# Without Optimizations                   # With Optimizations
 
 ------------------------------------      ------------------------------------
 |Search method       |Time         |      |Algorithm           |Time         |
