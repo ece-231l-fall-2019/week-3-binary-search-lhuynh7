@@ -2,8 +2,6 @@
 
 When creating this code I ran into many issues on how I would be able to get the results and timing of the program. After writing down what I should be expecting made visualizing the code a bit easier.  
 
-## Results of the code
-
 # Without Optimizations
 
 ------------------------------------
