@@ -4,16 +4,27 @@ When creating this code I ran into many issues on how I would be able to get the
 
 ## Results of the code
 
-# Without Optimizations                   # With Optimizations
+# Without Optimizations
 
-------------------------------------      ------------------------------------
-|Search method       |Time         |      |Algorithm           |Time         |
-|--------------------|-------------|      |--------------------|-------------|
-|Linear              |18.4272s     |      |Linear              |14.1367s     |
-|Linear (pointers)   |15.1374s     |      |Linear (pointers)   |13.6677s     |
-|Binary              |0.000949238s |      |Binary              |0.000960344s |
-|Binary (pointers)   |0.000856337s |      |Binary (pointers)   |0.000964609s |
-------------------------------------      ------------------------------------
+------------------------------------
+|Algorithm           |Time         |
+|--------------------|-------------|
+|Linear              |18.4272s     | 
+|Linear (pointers)   |15.1374s     |    
+|Binary              |0.000949238s |
+|Binary (pointers)   |0.000856337s |
+------------------------------------
+
+# With Optimizations
+
+------------------------------------
+|Algorithm           |Time         |
+|--------------------|-------------|
+|Linear              |14.1367s     |
+|Linear (pointers)   |13.6677s     |
+|Binary              |0.000960344s |
+|Binary (pointers)   |0.000964609s |
+------------------------------------
 
 ## SUMMARY
 
